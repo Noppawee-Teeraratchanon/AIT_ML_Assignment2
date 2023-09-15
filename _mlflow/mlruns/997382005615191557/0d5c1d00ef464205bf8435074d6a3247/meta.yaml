@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/997382005615191557/0d5c1d00ef464205bf8435074d6a3247/artifacts
+end_time: 1694493754760
+entry_point_name: ''
+experiment_id: '997382005615191557'
+lifecycle_stage: active
+run_id: 0d5c1d00ef464205bf8435074d6a3247
+run_name: method-sto-theta-xavier-with momentum-lr-0.001-reg-Normal
+run_uuid: 0d5c1d00ef464205bf8435074d6a3247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694493674965
+status: 3
+tags: []
+user_id: noppawee

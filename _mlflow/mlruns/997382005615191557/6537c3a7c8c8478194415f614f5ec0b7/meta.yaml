@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/997382005615191557/6537c3a7c8c8478194415f614f5ec0b7/artifacts
+end_time: 1694510579922
+entry_point_name: ''
+experiment_id: '997382005615191557'
+lifecycle_stage: active
+run_id: 6537c3a7c8c8478194415f614f5ec0b7
+run_name: method-mini-theta-xavier-without momentum-lr-0.001-reg-Lasso
+run_uuid: 6537c3a7c8c8478194415f614f5ec0b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694510528449
+status: 3
+tags: []
+user_id: noppawee

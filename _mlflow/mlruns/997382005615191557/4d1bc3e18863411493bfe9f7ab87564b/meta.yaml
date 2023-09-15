@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/997382005615191557/4d1bc3e18863411493bfe9f7ab87564b/artifacts
+end_time: 1694513177453
+entry_point_name: ''
+experiment_id: '997382005615191557'
+lifecycle_stage: active
+run_id: 4d1bc3e18863411493bfe9f7ab87564b
+run_name: method-batch-theta-zero-without momentum-lr-0.0001-reg-Normal
+run_uuid: 4d1bc3e18863411493bfe9f7ab87564b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694512768650
+status: 3
+tags: []
+user_id: noppawee

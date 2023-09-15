@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/997382005615191557/2ba71e52772e426990421adaebd700e3/artifacts
+end_time: 1694491354067
+entry_point_name: ''
+experiment_id: '997382005615191557'
+lifecycle_stage: active
+run_id: 2ba71e52772e426990421adaebd700e3
+run_name: method-sto-theta-xavier-with momentum-lr-0.0001-reg-Ridge
+run_uuid: 2ba71e52772e426990421adaebd700e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694491288502
+status: 3
+tags: []
+user_id: noppawee

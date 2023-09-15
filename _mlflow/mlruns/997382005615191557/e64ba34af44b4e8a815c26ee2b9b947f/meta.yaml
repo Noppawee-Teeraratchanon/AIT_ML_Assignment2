@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/997382005615191557/e64ba34af44b4e8a815c26ee2b9b947f/artifacts
+end_time: 1694493316719
+entry_point_name: ''
+experiment_id: '997382005615191557'
+lifecycle_stage: active
+run_id: e64ba34af44b4e8a815c26ee2b9b947f
+run_name: method-batch-theta-xavier-with momentum-lr-0.001-reg-Lasso
+run_uuid: e64ba34af44b4e8a815c26ee2b9b947f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694493249165
+status: 3
+tags: []
+user_id: noppawee

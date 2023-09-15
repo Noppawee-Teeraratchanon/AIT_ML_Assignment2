@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/e848bc1f28314442b32272c98c361e4f/artifacts
+deleted_time: 1694397843572
+end_time: 1694396404103
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e848bc1f28314442b32272c98c361e4f
+run_name: method-sto-theta-zero-with momentum-lr-0.01-reg-Ridge
+run_uuid: e848bc1f28314442b32272c98c361e4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694396190521
+status: 3
+tags: []
+user_id: noppawee

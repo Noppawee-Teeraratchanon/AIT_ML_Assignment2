@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/997382005615191557/ca6bbab4f2f44030b894005c5f06dfd3/artifacts
+end_time: 1694509204032
+entry_point_name: ''
+experiment_id: '997382005615191557'
+lifecycle_stage: active
+run_id: ca6bbab4f2f44030b894005c5f06dfd3
+run_name: method-batch-theta-xavier-without momentum-lr-0.0001-reg-Ridge
+run_uuid: ca6bbab4f2f44030b894005c5f06dfd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694509147576
+status: 3
+tags: []
+user_id: noppawee

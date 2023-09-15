@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/840808980186767260/b5504dfa6b244354817fe7589166a1be/artifacts
+deleted_time: 1694353850758
+end_time: null
+entry_point_name: ''
+experiment_id: '840808980186767260'
+lifecycle_stage: deleted
+run_id: b5504dfa6b244354817fe7589166a1be
+run_name: method-sto-lr-0.0001-reg-Ridge
+run_uuid: b5504dfa6b244354817fe7589166a1be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694350673751
+status: 1
+tags: []
+user_id: noppawee

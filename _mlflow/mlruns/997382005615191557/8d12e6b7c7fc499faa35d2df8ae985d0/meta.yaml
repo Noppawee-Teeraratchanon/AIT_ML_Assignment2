@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/997382005615191557/8d12e6b7c7fc499faa35d2df8ae985d0/artifacts
+end_time: 1694493271026
+entry_point_name: ''
+experiment_id: '997382005615191557'
+lifecycle_stage: active
+run_id: 8d12e6b7c7fc499faa35d2df8ae985d0
+run_name: Fold-0
+run_uuid: 8d12e6b7c7fc499faa35d2df8ae985d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694493250297
+status: 3
+tags: []
+user_id: noppawee
